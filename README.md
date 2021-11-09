@@ -12,7 +12,13 @@
 - 회원가입은 WebView 사용: https://kimilguk.herokuapp.com/join
 - 목표2: 구글플레이스토어에 등록( https://play.google.com/store/apps/developer?id=Kim+il+guk )
 
+#### 20211111(목) 예정
+- 현재 로그인 시작페이지 전 스플래시 액티비티 만들기
+
 #### 20211110(수)
 - KimilgukDiary 신규프로젝트 생성 및 깃 저장소 연동
 - VCS > Create Git Repository 로 시작.
 - VCS > Commit 후 Git > Push 로  Define remode 진행
+- 로그인 화면과 액티비티 생성(버튼액션으로 메인액티비티로 이동까지만 처리)
+- 실행아이콘 생성:아래 픽사베이 무료아이콘 사용
+- https://pixabay.com/ko/illustrations/%eb%8b%a4%ec%9d%b4%ec%96%b4%eb%a6%ac-%ed%8e%9c-%ec%95%84%eb%8a%91-%ec%8b%a0%eb%ac%b8-5816157/
