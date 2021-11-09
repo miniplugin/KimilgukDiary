@@ -8,10 +8,11 @@
 - 개발언어: 자바
 - Minimum SDK: API 19:Android4.4(KitKat) = 삼성겔럭시S1 까지 지원
 - Use legacy android.support libraries 체크:안함.(com.android.support:appcompat-v7사용안하고, androidx.appcompat 사용)
-- 목표: 스프링 서버의 사용자별 인증 후 개별 일기를 작성가능하게 처리
+- 목표1: 스프링 서버의 사용자별 인증 후 개별 일기를 작성가능하게 처리
 - 회원가입은 WebView 사용: https://kimilguk.herokuapp.com/join
+- 목표2: 구글플레이스토어에 등록( https://play.google.com/store/apps/developer?id=Kim+il+guk )
 
 #### 20211110(수)
 - KimilgukDiary 신규프로젝트 생성 및 깃 저장소 연동
 - VCS > Create Git Repository 로 시작.
-- VCS > Commit 후 Git > Push 로 진행
+- VCS > Commit 후 Git > Push 로  Define remode 진행
