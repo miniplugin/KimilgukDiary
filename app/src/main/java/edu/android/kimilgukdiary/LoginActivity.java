@@ -26,7 +26,7 @@ public class LoginActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Log.d(TAG,"로그체크 후 액티비티 띄우기");
-                Intent intent = new Intent(LoginActivity.this,MainActivity.class);
+                Intent intent = new Intent(getApplicationContext(),MainActivity.class);
                 startActivity(intent);
                 finish();
             }

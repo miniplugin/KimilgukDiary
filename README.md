@@ -12,7 +12,10 @@
 - 회원가입은 WebView 사용: https://kimilguk.herokuapp.com/join
 - 목표2: 구글플레이스토어에 등록( https://play.google.com/store/apps/developer?id=Kim+il+guk )
 
-#### 20211111(목) 예정
+#### 20211112(금) 예정
+- 일기작성 메인페이지 UI 만들기.
+
+#### 20211111(목)
 - 현재 로그인 시작페이지 전 스플래시 액티비티 만들기
 
 #### 20211110(수)
