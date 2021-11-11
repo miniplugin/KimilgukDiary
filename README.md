@@ -10,7 +10,7 @@
 - Use legacy android.support libraries 체크:안함.(com.android.support:appcompat-v7사용안하고, androidx.appcompat 사용)
 - 목표1: 스프링 서버의 사용자별 인증 후 개별 일기를 작성가능하게 처리
 - 회원가입은 WebView 사용: https://kimilguk.herokuapp.com/join
-- 목표2: 구글플레이스토어에 등록( https://play.google.com/store/apps/developer?id=Kim+il+guk )
+- 목표2: 구글플레이스토어에 등록( https://play.google.com/store/apps/details?id=biz.timespace.golftime )
 
 #### 20211112(금) 예정
 - 일기작성 메인페이지 UI 만들기.
